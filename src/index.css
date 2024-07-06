@@ -1,0 +1,29 @@
+.form-container{
+  background-color: rgb(223, 223, 188);
+  text-align: center;
+  padding: 10px;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 10%;
+}
+
+.user{
+  margin: 10px;
+}
+.email{
+  margin: 10px;
+}
+.phone{
+  margin: 10px;
+}
+
+.c2{
+  text-align: center;
+  margin-top: 10px;
+}
+
+.head{
+  background-color:cadetblue;
+  padding: 20px;
+  border-radius: 10px;
+}
